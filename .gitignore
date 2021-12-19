@@ -1,0 +1,6 @@
+build/*.dll
+build/*.exp
+build/*.lib
+build/*.obj
+.vscode
+build/

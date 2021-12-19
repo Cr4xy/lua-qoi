@@ -1,0 +1,6 @@
+[submodule "qoi"]
+	path = qoi
+	url = https://github.com/phoboslab/qoi
+[submodule "lua-compat-5.3"]
+	path = lua-compat-5.3
+	url = https://github.com/keplerproject/lua-compat-5.3
